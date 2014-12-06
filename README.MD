@@ -18,4 +18,4 @@ Simulate the request and accept the check the logs.
 
 ### Additional contribution
 
-[Sashi Shenoy](https://github.com/svshenoy)
+[Shashi Shenoy](https://github.com/svshenoy)
