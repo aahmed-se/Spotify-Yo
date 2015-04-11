@@ -15,7 +15,3 @@ Add the relevant keys in server.py and run the server.
 
 Simulate the request and accept the check the logs.
 
-
-### Additional contribution
-
-[Shashi Shenoy](https://github.com/svshenoy)
